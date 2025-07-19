@@ -1,0 +1,2001 @@
+sex,age,genhlth,exerany
+Male,64,Very good,0
+Female,29,Good,1
+Male,79,Poor,1
+Male,33,Very good,0
+Male,41,Good,1
+Female,36,Excellent,0
+Male,25,Good,1
+Male,48,Very good,1
+Male,38,Poor,0
+Female,34,Good,1
+Male,40,Very good,0
+Male,54,Excellent,0
+Male,71,Excellent,0
+Male,33,Very good,0
+Female,23,Very good,1
+Male,25,Fair,0
+Female,42,Good,1
+Female,35,Good,1
+Female,42,Excellent,1
+Male,29,Fair,1
+Female,32,Good,1
+Male,76,Excellent,1
+Female,43,Good,1
+Female,58,Good,0
+Female,62,Excellent,1
+Female,43,Very good,0
+Female,64,Very good,0
+Female,49,Excellent,0
+Female,27,Fair,1
+Female,33,Fair,0
+Male,24,Good,1
+Male,34,Very good,0
+Female,40,Very good,1
+Female,43,Good,0
+Female,38,Good,0
+Male,39,Excellent,1
+Female,75,Good,1
+Male,24,Fair,0
+Male,31,Very good,1
+Male,32,Excellent,0
+Male,70,Good,1
+Male,24,Very good,1
+Female,26,Very good,0
+Female,68,Excellent,0
+Female,65,Very good,0
+Female,25,Good,1
+Female,67,Good,0
+Male,76,Very good,1
+Female,40,Fair,1
+Female,46,Fair,0
+Male,35,Fair,1
+Female,48,Very good,1
+Male,47,Very good,1
+Female,69,Poor,0
+Male,56,Good,1
+Female,52,Excellent,0
+Female,35,Excellent,1
+Male,76,Very good,1
+Male,59,Fair,0
+Male,56,Good,1
+Male,34,Very good,1
+Male,31,Excellent,1
+Male,48,Good,1
+Male,41,Fair,0
+Male,52,Very good,1
+Female,61,Good,0
+Female,77,Poor,1
+Male,62,Very good,1
+Female,51,Good,0
+Female,20,Very good,1
+Female,54,Good,1
+Female,60,Good,1
+Male,57,Good,1
+Female,43,Good,1
+Male,72,Very good,1
+Female,40,Fair,1
+Female,61,Good,1
+Female,56,Excellent,1
+Male,32,Good,1
+Female,73,Good,1
+Male,66,Very good,0
+Female,21,Fair,0
+Male,46,Fair,1
+Female,39,Very good,0
+Male,42,Poor,1
+Male,30,Excellent,1
+Female,35,Very good,1
+Male,50,Excellent,1
+Female,33,Fair,1
+Female,62,Good,1
+Female,59,Excellent,1
+Female,61,Very good,0
+Female,79,Good,1
+Female,19,Excellent,1
+Female,72,Fair,0
+Female,52,Fair,1
+Female,59,Good,1
+Female,51,Poor,0
+Female,47,Very good,0
+Male,76,Poor,0
+Male,72,Good,0
+Female,30,Good,0
+Female,30,Excellent,0
+Female,35,Fair,1
+Female,49,Very good,1
+Female,49,Excellent,1
+Female,52,Excellent,1
+Female,76,Good,0
+Female,56,Good,1
+Male,63,Good,1
+Female,69,Fair,1
+Male,46,Excellent,0
+Female,79,Good,1
+Female,66,Excellent,0
+Male,46,Fair,1
+Female,79,Fair,1
+Male,70,Good,1
+Female,61,Good,1
+Female,74,Very good,0
+Male,33,Very good,0
+Female,73,Fair,1
+Male,61,Very good,1
+Female,64,Very good,1
+Male,74,Very good,0
+Male,27,Fair,0
+Female,47,Very good,1
+Female,42,Excellent,1
+Male,56,Good,0
+Female,37,Fair,1
+Female,22,Excellent,1
+Female,18,Very good,1
+Male,47,Excellent,1
+Male,66,Very good,0
+Male,20,Very good,0
+Male,62,Good,1
+Male,31,Good,1
+Male,73,Good,1
+Male,47,Very good,1
+Male,67,Fair,1
+Male,21,Very good,1
+Female,35,Poor,1
+Male,79,Good,1
+Female,54,Excellent,1
+Female,42,Good,1
+Female,65,Very good,1
+Male,18,Good,1
+Male,70,Excellent,0
+Male,63,Excellent,1
+Male,32,Fair,1
+Female,26,Very good,0
+Male,32,Fair,0
+Male,66,Very good,1
+Male,74,Good,0
+Male,41,Good,1
+Male,21,Good,1
+Female,29,Very good,1
+Male,76,Very good,0
+Female,75,Excellent,0
+Male,54,Very good,1
+Female,78,Good,1
+Male,54,Fair,1
+Male,60,Fair,1
+Female,77,Good,1
+Female,23,Good,0
+Female,56,Good,0
+Male,73,Very good,0
+Female,63,Fair,0
+Male,41,Good,1
+Male,28,Good,0
+Female,79,Excellent,1
+Female,30,Very good,1
+Male,51,Very good,1
+Male,42,Fair,1
+Female,24,Good,1
+Female,69,Very good,1
+Female,21,Poor,0
+Male,76,Excellent,1
+Male,25,Very good,1
+Male,37,Excellent,0
+Male,46,Good,1
+Male,71,Fair,1
+Male,70,Very good,1
+Female,68,Fair,1
+Male,62,Very good,1
+Male,63,Fair,1
+Male,27,Good,1
+Female,60,Fair,1
+Male,51,Excellent,1
+Male,74,Poor,1
+Female,43,Good,1
+Male,58,Very good,0
+Male,66,Fair,1
+Male,75,Very good,1
+Male,20,Fair,0
+Male,73,Excellent,1
+Female,23,Good,1
+Female,22,Good,1
+Female,22,Excellent,0
+Male,71,Very good,0
+Male,64,Excellent,1
+Male,40,Very good,0
+Female,66,Very good,1
+Male,26,Good,1
+Male,52,Very good,1
+Female,37,Very good,1
+Male,75,Good,0
+Female,66,Excellent,1
+Female,78,Fair,1
+Female,76,Fair,0
+Male,59,Good,1
+Male,52,Good,1
+Male,67,Fair,1
+Male,35,Excellent,0
+Male,79,Excellent,0
+Male,34,Very good,1
+Male,41,Good,0
+Female,20,Excellent,1
+Male,49,Good,0
+Female,52,Poor,1
+Male,55,Fair,1
+Male,30,Good,0
+Male,73,Excellent,1
+Female,78,Fair,1
+Female,64,Good,1
+Female,42,Excellent,0
+Female,26,Excellent,1
+Male,21,Fair,1
+Female,31,Good,1
+Male,54,Fair,1
+Male,51,Fair,1
+Female,28,Good,0
+Female,58,Good,0
+Female,73,Very good,1
+Female,20,Very good,1
+Female,76,Very good,1
+Female,45,Good,1
+Female,46,Good,0
+Female,26,Fair,1
+Male,20,Very good,1
+Female,42,Good,0
+Female,51,Good,1
+Male,29,Good,1
+Female,59,Good,1
+Male,26,Very good,0
+Male,32,Good,0
+Female,57,Excellent,1
+Male,42,Very good,0
+Male,22,Very good,1
+Male,28,Good,1
+Male,76,Poor,1
+Female,51,Good,1
+Male,41,Good,1
+Female,77,Good,1
+Male,32,Good,1
+Male,55,Excellent,1
+Male,25,Very good,1
+Male,76,Very good,0
+Female,22,Very good,1
+Female,65,Excellent,1
+Male,43,Excellent,1
+Male,35,Very good,1
+Female,23,Poor,0
+Male,54,Very good,1
+Male,77,Very good,1
+Male,65,Excellent,0
+Female,30,Good,1
+Female,45,Very good,1
+Female,22,Very good,1
+Male,30,Good,0
+Male,34,Excellent,1
+Female,67,Excellent,1
+Female,57,Very good,1
+Female,62,Excellent,1
+Female,49,Excellent,1
+Male,79,Very good,1
+Female,46,Fair,1
+Male,68,Good,0
+Female,75,Good,0
+Male,20,Very good,1
+Female,73,Fair,0
+Female,57,Very good,1
+Female,51,Excellent,1
+Female,57,Good,1
+Male,44,Excellent,0
+Female,30,Very good,0
+Male,62,Good,1
+Male,50,Fair,0
+Male,23,Very good,1
+Male,41,Good,0
+Female,36,Poor,0
+Male,33,Excellent,1
+Male,57,Very good,0
+Male,45,Very good,1
+Female,50,Very good,1
+Female,76,Very good,1
+Female,76,Fair,1
+Female,65,Good,0
+Male,58,Good,0
+Male,30,Very good,1
+Female,60,Fair,0
+Male,62,Poor,0
+Male,42,Fair,1
+Male,70,Excellent,0
+Female,59,Good,1
+Female,53,Excellent,0
+Male,44,Very good,1
+Female,55,Excellent,1
+Female,77,Good,1
+Female,24,Good,1
+Female,22,Excellent,1
+Female,60,Very good,1
+Male,62,Very good,1
+Female,75,Very good,0
+Male,74,Excellent,1
+Male,68,Very good,1
+Female,48,Good,1
+Male,40,Excellent,1
+Male,59,Excellent,0
+Male,27,Very good,0
+Female,49,Fair,1
+Female,60,Good,1
+Male,70,Good,0
+Female,47,Very good,1
+Female,56,Good,0
+Female,48,Excellent,1
+Female,35,Good,0
+Male,53,Fair,1
+Male,19,Good,1
+Female,31,Fair,0
+Female,30,Good,1
+Male,46,Excellent,1
+Male,29,Fair,1
+Female,56,Excellent,1
+Male,19,Good,1
+Female,49,Excellent,1
+Female,30,Excellent,1
+Male,63,Very good,1
+Male,44,Very good,0
+Female,66,Very good,1
+Female,58,Good,1
+Male,34,Excellent,0
+Female,57,Excellent,1
+Male,48,Good,1
+Female,51,Very good,1
+Male,77,Good,1
+Male,41,Good,1
+Male,62,Fair,1
+Female,52,Good,1
+Female,65,Very good,1
+Male,23,Good,1
+Female,36,Very good,1
+Male,47,Very good,1
+Male,24,Good,0
+Female,27,Very good,1
+Female,58,Good,1
+Male,49,Fair,1
+Female,51,Fair,1
+Female,45,Fair,1
+Male,77,Very good,1
+Male,32,Very good,0
+Female,47,Good,1
+Male,54,Very good,0
+Male,46,Good,1
+Female,39,Good,1
+Male,21,Good,1
+Male,37,Very good,1
+Female,49,Excellent,1
+Female,53,Very good,1
+Male,67,Excellent,1
+Male,21,Fair,0
+Female,44,Very good,0
+Female,34,Excellent,1
+Female,29,Excellent,1
+Female,39,Good,1
+Male,34,Good,1
+Female,27,Very good,1
+Female,71,Excellent,1
+Male,18,Very good,1
+Female,39,Very good,1
+Male,43,Good,0
+Female,73,Good,0
+Female,76,Very good,0
+Female,35,Very good,1
+Male,67,Poor,1
+Male,31,Very good,1
+Female,64,Good,1
+Male,46,Excellent,1
+Male,29,Very good,0
+Male,53,Excellent,1
+Male,76,Good,1
+Male,52,Poor,1
+Male,69,Very good,1
+Female,78,Excellent,1
+Female,29,Excellent,1
+Male,24,Very good,1
+Female,46,Excellent,1
+Female,28,Excellent,0
+Female,50,Good,1
+Female,23,Very good,0
+Male,64,Very good,1
+Female,32,Fair,1
+Female,49,Excellent,1
+Male,68,Poor,1
+Male,28,Very good,1
+Female,75,Fair,0
+Female,40,Good,0
+Female,43,Fair,1
+Female,51,Poor,1
+Female,63,Very good,0
+Female,51,Poor,1
+Male,46,Very good,1
+Female,21,Very good,1
+Female,34,Very good,0
+Male,52,Good,0
+Male,30,Excellent,1
+Male,58,Good,0
+Male,56,Good,0
+Female,32,Good,1
+Female,72,Fair,1
+Female,46,Very good,1
+Female,46,Very good,0
+Female,28,Very good,1
+Female,69,Excellent,0
+Male,49,Excellent,1
+Female,19,Very good,0
+Male,64,Very good,1
+Male,31,Poor,1
+Female,37,Good,0
+Male,39,Very good,0
+Female,28,Good,0
+Male,44,Excellent,1
+Female,20,Very good,0
+Male,34,Good,1
+Female,79,Very good,1
+Female,61,Very good,1
+Female,73,Poor,1
+Female,45,Fair,1
+Female,46,Good,0
+Male,38,Good,1
+Male,64,Good,0
+Male,33,Very good,1
+Female,54,Very good,1
+Male,76,Excellent,1
+Female,37,Very good,0
+Female,23,Good,0
+Male,36,Very good,0
+Male,74,Poor,0
+Female,22,Fair,1
+Male,20,Good,1
+Female,76,Good,0
+Female,18,Fair,1
+Female,75,Excellent,1
+Female,77,Good,1
+Female,55,Excellent,1
+Male,32,Good,1
+Male,51,Very good,1
+Female,78,Fair,1
+Female,52,Fair,1
+Male,66,Excellent,1
+Male,42,Very good,1
+Female,41,Poor,0
+Male,29,Very good,1
+Female,35,Fair,1
+Male,32,Good,0
+Female,61,Very good,1
+Male,33,Very good,1
+Female,44,Very good,0
+Male,25,Good,1
+Male,77,Very good,0
+Female,63,Good,0
+Male,42,Very good,1
+Female,34,Good,1
+Male,46,Fair,1
+Female,70,Poor,1
+Male,25,Very good,1
+Female,32,Fair,1
+Male,44,Good,1
+Female,63,Good,1
+Male,67,Poor,1
+Female,69,Very good,1
+Female,24,Excellent,1
+Female,20,Fair,0
+Male,46,Very good,1
+Female,61,Fair,1
+Male,70,Fair,0
+Female,41,Excellent,1
+Male,77,Fair,1
+Female,75,Very good,1
+Male,20,Good,1
+Male,37,Good,1
+Female,63,Fair,1
+Male,32,Excellent,1
+Male,42,Very good,0
+Female,47,Good,1
+Male,31,Good,1
+Male,24,Good,0
+Male,34,Excellent,1
+Female,79,Very good,0
+Male,61,Very good,1
+Female,37,Fair,0
+Male,53,Very good,1
+Male,26,Very good,0
+Male,55,Poor,0
+Female,65,Excellent,1
+Male,74,Poor,1
+Male,77,Good,1
+Female,39,Fair,1
+Male,71,Very good,1
+Female,70,Excellent,1
+Female,70,Good,1
+Male,19,Fair,1
+Female,41,Good,1
+Male,25,Excellent,1
+Female,28,Good,1
+Female,30,Good,1
+Male,34,Good,1
+Female,25,Good,1
+Female,38,Fair,1
+Female,35,Good,1
+Female,47,Excellent,1
+Female,35,Very good,0
+Male,63,Excellent,1
+Female,64,Very good,1
+Male,48,Very good,0
+Female,55,Excellent,0
+Male,49,Very good,0
+Male,28,Excellent,1
+Female,62,Fair,1
+Female,42,Fair,0
+Female,50,Excellent,1
+Male,77,Poor,1
+Female,55,Good,0
+Male,58,Very good,0
+Male,25,Excellent,0
+Male,28,Good,0
+Female,39,Good,0
+Female,68,Good,1
+Male,41,Excellent,0
+Male,58,Excellent,1
+Female,34,Very good,1
+Male,29,Very good,0
+Female,74,Very good,1
+Male,63,Very good,1
+Female,49,Fair,1
+Male,32,Fair,0
+Female,33,Very good,1
+Male,71,Fair,0
+Female,39,Very good,1
+Female,45,Very good,0
+Male,37,Very good,0
+Male,50,Good,1
+Female,27,Poor,1
+Male,57,Good,1
+Female,49,Very good,0
+Male,67,Good,1
+Female,77,Excellent,0
+Female,50,Fair,1
+Female,19,Good,0
+Female,50,Very good,0
+Female,50,Good,0
+Female,58,Good,0
+Male,30,Excellent,1
+Male,47,Good,1
+Male,50,Very good,0
+Female,30,Good,0
+Female,69,Fair,1
+Female,43,Fair,1
+Female,39,Good,1
+Male,56,Good,1
+Male,19,Excellent,1
+Female,55,Good,1
+Male,56,Very good,0
+Male,43,Very good,1
+Female,63,Very good,1
+Male,75,Excellent,1
+Female,67,Good,1
+Male,32,Excellent,0
+Female,51,Good,0
+Female,59,Very good,1
+Female,72,Excellent,0
+Female,61,Good,0
+Male,66,Excellent,0
+Female,57,Very good,1
+Female,28,Good,0
+Female,78,Excellent,1
+Male,20,Fair,1
+Female,76,Excellent,1
+Male,23,Very good,1
+Female,26,Good,1
+Male,23,Very good,1
+Male,26,Excellent,1
+Female,56,Very good,0
+Male,48,Very good,0
+Female,49,Fair,1
+Female,58,Very good,0
+Female,67,Good,0
+Male,29,Fair,0
+Male,25,Very good,1
+Female,25,Fair,0
+Female,67,Very good,0
+Male,45,Poor,0
+Female,79,Excellent,1
+Female,37,Good,1
+Female,79,Very good,1
+Male,64,Very good,1
+Male,76,Good,1
+Male,24,Good,1
+Female,28,Excellent,0
+Female,37,Excellent,0
+Female,33,Good,1
+Male,21,Good,0
+Female,23,Poor,1
+Female,75,Good,0
+Female,39,Poor,0
+Female,43,Good,0
+Male,20,Very good,0
+Male,58,Excellent,1
+Female,77,Good,0
+Male,59,Good,1
+Male,31,Excellent,0
+Female,28,Very good,0
+Female,35,Poor,0
+Male,71,Good,1
+Female,29,Very good,0
+Male,40,Very good,1
+Female,29,Very good,1
+Male,30,Very good,0
+Female,42,Very good,1
+Male,62,Excellent,0
+Male,68,Good,1
+Male,75,Very good,1
+Female,36,Fair,0
+Male,72,Fair,1
+Male,63,Very good,1
+Female,53,Good,0
+Female,62,Very good,1
+Male,25,Fair,1
+Male,46,Very good,1
+Female,72,Good,0
+Female,70,Good,0
+Female,72,Very good,0
+Female,49,Excellent,1
+Female,68,Good,0
+Male,61,Good,0
+Female,35,Very good,0
+Male,23,Good,1
+Male,35,Very good,0
+Male,36,Good,0
+Female,39,Excellent,1
+Male,54,Fair,1
+Male,49,Very good,0
+Female,73,Very good,1
+Male,58,Excellent,0
+Male,76,Excellent,0
+Female,20,Good,1
+Male,45,Very good,1
+Male,27,Fair,1
+Male,68,Excellent,0
+Female,52,Very good,1
+Female,78,Very good,0
+Female,46,Excellent,1
+Male,71,Excellent,1
+Male,32,Very good,1
+Female,50,Very good,1
+Male,24,Very good,0
+Male,29,Good,1
+Female,66,Good,1
+Female,47,Excellent,1
+Male,38,Very good,1
+Male,48,Poor,1
+Male,75,Good,0
+Female,78,Good,1
+Female,41,Very good,1
+Female,37,Good,1
+Female,54,Good,0
+Male,21,Good,1
+Female,45,Poor,1
+Female,61,Excellent,0
+Female,79,Excellent,1
+Female,37,Good,1
+Female,77,Fair,1
+Male,41,Excellent,0
+Male,67,Very good,1
+Female,66,Excellent,0
+Male,68,Very good,1
+Female,49,Good,1
+Female,58,Good,1
+Male,53,Very good,1
+Male,75,Very good,0
+Female,70,Excellent,1
+Female,51,Very good,1
+Female,53,Good,1
+Male,19,Poor,0
+Female,32,Fair,1
+Female,51,Excellent,0
+Female,53,Fair,1
+Male,23,Good,1
+Female,56,Good,1
+Female,59,Very good,1
+Male,68,Very good,1
+Female,68,Very good,1
+Female,75,Excellent,0
+Male,71,Very good,0
+Female,78,Very good,0
+Male,29,Very good,1
+Male,20,Good,1
+Female,62,Very good,1
+Female,35,Excellent,0
+Female,57,Poor,0
+Female,38,Fair,1
+Male,32,Good,1
+Female,50,Poor,1
+Male,52,Good,1
+Female,43,Poor,1
+Female,25,Excellent,1
+Female,53,Very good,0
+Male,65,Very good,1
+Female,47,Excellent,1
+Female,40,Excellent,0
+Female,59,Good,1
+Female,61,Good,1
+Male,31,Good,1
+Female,31,Excellent,1
+Male,19,Fair,1
+Male,72,Good,0
+Male,54,Very good,1
+Male,22,Good,1
+Male,55,Very good,0
+Male,62,Very good,1
+Female,58,Fair,0
+Male,79,Very good,0
+Male,71,Very good,1
+Male,77,Fair,0
+Female,78,Good,1
+Female,64,Excellent,0
+Male,31,Excellent,1
+Female,73,Excellent,0
+Male,56,Good,0
+Male,42,Very good,1
+Female,37,Excellent,1
+Male,19,Poor,0
+Female,56,Good,0
+Female,23,Very good,1
+Male,34,Good,0
+Male,76,Good,1
+Female,42,Excellent,1
+Male,74,Very good,1
+Male,45,Fair,1
+Male,19,Very good,0
+Female,52,Good,1
+Female,54,Very good,0
+Male,22,Excellent,1
+Female,18,Excellent,1
+Female,57,Very good,1
+Female,29,Very good,1
+Female,73,Excellent,1
+Female,53,Fair,1
+Male,62,Poor,1
+Male,40,Good,1
+Male,64,Fair,1
+Female,48,Very good,1
+Female,28,Poor,0
+Male,27,Excellent,0
+Female,20,Poor,1
+Male,71,Poor,1
+Male,31,Good,1
+Male,33,Poor,0
+Female,27,Good,1
+Female,46,Very good,1
+Male,27,Very good,1
+Male,29,Good,1
+Male,47,Excellent,1
+Male,58,Good,0
+Female,18,Poor,1
+Female,22,Excellent,1
+Male,37,Good,1
+Male,25,Fair,1
+Female,60,Fair,0
+Female,29,Poor,1
+Male,18,Good,0
+Male,74,Poor,1
+Male,71,Good,1
+Female,37,Excellent,0
+Female,45,Very good,1
+Female,74,Good,0
+Male,60,Very good,1
+Male,54,Good,0
+Female,64,Good,1
+Female,54,Excellent,1
+Male,29,Good,0
+Female,54,Good,0
+Female,66,Very good,0
+Male,66,Excellent,0
+Female,73,Excellent,0
+Male,61,Very good,1
+Male,73,Fair,1
+Male,45,Very good,1
+Male,64,Good,1
+Male,32,Very good,1
+Male,23,Very good,1
+Male,61,Fair,1
+Female,76,Good,0
+Male,78,Excellent,1
+Male,37,Very good,1
+Female,67,Excellent,1
+Female,31,Very good,0
+Female,19,Good,0
+Male,26,Excellent,1
+Female,54,Very good,1
+Male,37,Very good,1
+Male,43,Fair,1
+Male,46,Poor,1
+Male,18,Excellent,1
+Female,72,Good,1
+Female,52,Very good,1
+Male,23,Very good,0
+Male,54,Good,0
+Male,70,Fair,1
+Female,76,Poor,1
+Male,22,Good,1
+Male,50,Very good,1
+Female,66,Good,0
+Female,68,Very good,1
+Male,31,Good,0
+Female,29,Very good,1
+Female,59,Good,0
+Male,37,Very good,1
+Female,70,Excellent,0
+Male,67,Fair,1
+Female,41,Excellent,1
+Male,76,Good,1
+Male,60,Very good,1
+Male,79,Excellent,0
+Female,51,Excellent,0
+Male,42,Excellent,0
+Female,67,Fair,1
+Male,46,Very good,0
+Male,74,Poor,1
+Female,56,Good,1
+Male,48,Very good,1
+Male,73,Good,1
+Female,64,Good,1
+Male,60,Good,1
+Male,67,Very good,1
+Male,40,Very good,0
+Male,61,Fair,1
+Female,55,Fair,1
+Female,37,Fair,1
+Male,40,Very good,1
+Female,79,Good,1
+Male,62,Very good,1
+Female,69,Very good,1
+Male,33,Very good,0
+Male,67,Good,1
+Male,59,Excellent,0
+Male,77,Very good,1
+Male,72,Fair,1
+Male,25,Very good,0
+Female,67,Excellent,1
+Male,38,Excellent,1
+Female,18,Fair,0
+Male,72,Good,1
+Female,25,Very good,0
+Female,46,Fair,1
+Female,49,Fair,0
+Male,55,Very good,1
+Male,22,Good,1
+Female,64,Good,1
+Male,39,Good,1
+Female,64,Excellent,1
+Male,51,Fair,1
+Female,18,Good,1
+Female,72,Very good,1
+Male,72,Very good,1
+Female,43,Excellent,0
+Male,60,Excellent,1
+Female,27,Good,1
+Female,47,Excellent,1
+Male,67,Very good,1
+Male,35,Good,0
+Male,34,Excellent,1
+Female,43,Poor,0
+Male,25,Very good,1
+Female,64,Very good,0
+Female,57,Very good,1
+Male,66,Very good,0
+Male,29,Excellent,1
+Female,44,Good,1
+Female,25,Poor,1
+Male,42,Very good,1
+Male,63,Good,0
+Male,21,Good,1
+Male,50,Fair,1
+Male,18,Very good,0
+Female,36,Very good,1
+Female,48,Very good,0
+Female,33,Good,0
+Female,31,Fair,1
+Male,70,Excellent,0
+Male,65,Very good,1
+Male,22,Fair,1
+Female,58,Fair,1
+Female,43,Poor,1
+Male,79,Good,0
+Male,45,Very good,0
+Female,19,Good,1
+Female,67,Good,1
+Male,23,Excellent,0
+Male,26,Good,1
+Female,50,Good,1
+Male,58,Excellent,1
+Male,42,Good,0
+Male,65,Good,1
+Female,30,Poor,0
+Female,26,Excellent,0
+Female,70,Very good,1
+Female,30,Good,1
+Female,48,Very good,0
+Female,58,Good,1
+Female,28,Good,0
+Male,21,Excellent,0
+Male,51,Good,1
+Male,78,Good,0
+Male,55,Very good,0
+Male,63,Fair,0
+Male,21,Fair,1
+Male,55,Good,1
+Female,36,Good,1
+Female,23,Very good,0
+Male,51,Fair,1
+Male,35,Good,0
+Female,30,Good,1
+Male,58,Fair,1
+Male,40,Very good,1
+Female,36,Fair,0
+Male,62,Excellent,1
+Female,28,Very good,1
+Male,18,Very good,1
+Female,41,Poor,0
+Female,79,Fair,1
+Female,71,Good,1
+Male,24,Good,0
+Female,42,Good,0
+Male,38,Fair,0
+Male,32,Very good,1
+Male,18,Very good,1
+Male,29,Excellent,0
+Female,75,Good,1
+Female,24,Good,0
+Male,32,Very good,1
+Male,38,Excellent,1
+Female,36,Fair,1
+Male,77,Excellent,1
+Female,46,Good,1
+Male,42,Poor,1
+Male,50,Very good,0
+Female,66,Very good,1
+Male,49,Good,0
+Female,66,Fair,0
+Male,52,Good,1
+Male,61,Poor,1
+Male,55,Excellent,0
+Female,43,Good,1
+Male,28,Good,0
+Male,52,Fair,0
+Male,25,Excellent,0
+Male,63,Fair,1
+Female,31,Good,1
+Female,27,Very good,1
+Male,19,Excellent,1
+Female,63,Fair,0
+Male,26,Excellent,1
+Male,20,Very good,1
+Male,38,Very good,0
+Female,43,Fair,1
+Female,25,Good,1
+Female,65,Good,1
+Female,19,Very good,0
+Female,23,Good,1
+Female,45,Good,0
+Female,70,Fair,1
+Female,46,Fair,0
+Female,43,Excellent,0
+Male,42,Good,1
+Female,29,Excellent,1
+Female,22,Good,1
+Female,51,Very good,0
+Female,65,Very good,1
+Female,54,Very good,1
+Female,32,Good,1
+Female,61,Very good,1
+Female,53,Good,1
+Female,32,Very good,1
+Female,60,Excellent,1
+Female,65,Good,0
+Male,40,Very good,0
+Male,23,Very good,1
+Female,63,Good,0
+Female,67,Very good,0
+Male,61,Excellent,0
+Female,76,Very good,1
+Male,60,Fair,1
+Male,62,Good,1
+Male,38,Good,0
+Male,40,Good,1
+Male,60,Excellent,1
+Female,72,Very good,1
+Male,33,Good,1
+Female,64,Excellent,1
+Female,70,Very good,1
+Male,77,Very good,1
+Male,32,Very good,1
+Female,42,Poor,0
+Male,53,Excellent,0
+Male,28,Good,0
+Female,68,Excellent,0
+Female,32,Poor,1
+Male,21,Excellent,1
+Female,38,Very good,0
+Male,30,Good,1
+Male,39,Good,1
+Male,36,Very good,1
+Female,51,Very good,1
+Female,31,Very good,1
+Female,78,Very good,1
+Female,21,Very good,1
+Female,65,Very good,0
+Male,70,Very good,1
+Male,69,Very good,1
+Male,63,Good,1
+Male,44,Poor,0
+Female,46,Good,1
+Male,64,Excellent,1
+Female,45,Excellent,1
+Male,52,Poor,1
+Female,25,Very good,0
+Female,33,Excellent,0
+Male,59,Good,1
+Male,53,Good,1
+Male,47,Good,0
+Male,35,Very good,1
+Female,19,Excellent,1
+Male,66,Poor,1
+Male,30,Very good,0
+Female,21,Good,1
+Male,43,Good,1
+Male,42,Good,0
+Male,47,Very good,1
+Male,28,Very good,1
+Male,24,Good,0
+Female,48,Fair,1
+Male,61,Fair,1
+Male,27,Excellent,1
+Male,56,Excellent,1
+Male,30,Fair,1
+Male,48,Good,1
+Female,24,Fair,1
+Male,73,Very good,0
+Female,66,Good,1
+Female,59,Good,1
+Male,78,Good,1
+Male,59,Very good,0
+Male,73,Excellent,1
+Male,53,Good,1
+Female,37,Very good,1
+Male,21,Very good,1
+Male,71,Poor,1
+Male,24,Very good,0
+Male,71,Fair,1
+Male,18,Excellent,1
+Male,61,Good,1
+Female,73,Poor,0
+Female,62,Excellent,1
+Male,59,Excellent,1
+Male,64,Very good,1
+Male,76,Excellent,1
+Female,30,Good,1
+Male,72,Fair,1
+Female,39,Very good,1
+Male,71,Very good,1
+Male,38,Very good,1
+Male,39,Good,1
+Male,45,Excellent,1
+Female,26,Good,0
+Female,43,Good,0
+Male,26,Good,0
+Male,32,Very good,0
+Female,27,Good,1
+Female,41,Excellent,0
+Female,75,Excellent,1
+Female,74,Fair,1
+Male,78,Good,1
+Female,59,Excellent,1
+Male,25,Very good,0
+Female,41,Very good,1
+Female,33,Very good,1
+Female,66,Very good,0
+Female,43,Excellent,1
+Female,44,Very good,1
+Male,54,Good,0
+Male,21,Good,1
+Female,67,Good,1
+Female,41,Excellent,1
+Male,36,Poor,1
+Female,53,Fair,0
+Female,77,Fair,1
+Male,56,Fair,1
+Female,27,Fair,1
+Female,42,Good,1
+Male,35,Very good,0
+Male,36,Good,1
+Male,53,Good,1
+Female,27,Good,1
+Male,50,Good,0
+Male,72,Excellent,0
+Male,67,Very good,1
+Male,22,Fair,1
+Male,64,Good,1
+Male,66,Good,0
+Female,52,Very good,1
+Female,61,Very good,0
+Male,51,Fair,1
+Male,50,Good,0
+Male,72,Good,1
+Female,38,Very good,1
+Female,34,Good,1
+Female,39,Very good,1
+Female,65,Good,0
+Female,54,Very good,0
+Female,32,Very good,0
+Female,52,Good,1
+Female,45,Fair,1
+Female,24,Excellent,0
+Male,49,Fair,1
+Male,28,Very good,1
+Male,27,Very good,1
+Male,26,Excellent,1
+Female,31,Very good,1
+Female,30,Good,1
+Male,78,Excellent,1
+Female,74,Very good,0
+Male,79,Fair,1
+Female,42,Excellent,1
+Male,19,Good,1
+Female,52,Very good,0
+Female,24,Good,1
+Male,38,Very good,1
+Female,35,Excellent,1
+Male,20,Excellent,1
+Male,59,Excellent,1
+Male,71,Excellent,0
+Male,78,Good,0
+Female,56,Fair,1
+Female,58,Fair,1
+Female,66,Good,0
+Male,28,Excellent,1
+Female,56,Very good,0
+Male,41,Very good,1
+Female,77,Very good,0
+Female,63,Good,0
+Female,36,Good,0
+Male,21,Very good,0
+Female,43,Very good,1
+Female,55,Fair,0
+Male,59,Good,1
+Female,49,Very good,1
+Male,56,Fair,0
+Female,62,Poor,0
+Male,63,Very good,0
+Male,53,Very good,1
+Female,57,Good,0
+Male,54,Fair,0
+Male,50,Fair,1
+Male,53,Excellent,1
+Male,20,Very good,1
+Male,26,Good,1
+Male,25,Good,0
+Female,50,Excellent,1
+Male,76,Fair,0
+Male,23,Good,0
+Female,58,Fair,1
+Female,56,Fair,0
+Female,21,Good,1
+Female,30,Very good,0
+Female,66,Good,1
+Female,77,Excellent,0
+Female,19,Good,1
+Male,77,Excellent,1
+Male,22,Good,0
+Female,61,Very good,1
+Male,44,Excellent,1
+Male,49,Excellent,1
+Male,38,Excellent,0
+Female,25,Good,1
+Female,55,Good,1
+Male,25,Good,1
+Female,67,Excellent,1
+Male,20,Excellent,1
+Male,71,Excellent,1
+Male,61,Excellent,1
+Male,78,Fair,1
+Female,75,Very good,1
+Female,20,Very good,0
+Female,39,Excellent,1
+Male,23,Very good,1
+Female,19,Good,0
+Male,40,Good,1
+Female,61,Very good,0
+Male,19,Excellent,1
+Male,55,Very good,1
+Male,34,Very good,1
+Female,52,Very good,0
+Female,51,Poor,0
+Female,40,Good,1
+Female,47,Good,1
+Male,69,Very good,0
+Female,25,Very good,1
+Female,39,Good,1
+Male,61,Good,0
+Male,75,Good,0
+Male,53,Excellent,1
+Female,22,Good,0
+Male,30,Very good,0
+Male,46,Fair,1
+Male,48,Good,1
+Female,64,Good,1
+Male,74,Excellent,0
+Female,72,Good,0
+Female,33,Excellent,1
+Male,59,Very good,0
+Male,79,Excellent,1
+Female,47,Good,1
+Male,74,Very good,1
+Male,72,Very good,1
+Female,33,Fair,0
+Female,29,Very good,1
+Male,34,Good,0
+Female,33,Very good,1
+Male,29,Excellent,1
+Male,25,Good,0
+Male,37,Excellent,1
+Female,20,Very good,1
+Male,33,Good,1
+Male,47,Good,0
+Male,62,Good,1
+Female,40,Very good,1
+Female,45,Excellent,1
+Female,68,Good,1
+Female,57,Good,0
+Female,71,Fair,1
+Male,22,Fair,1
+Female,37,Fair,1
+Female,57,Very good,1
+Female,73,Very good,0
+Male,61,Good,1
+Female,18,Very good,0
+Female,74,Excellent,1
+Male,47,Fair,1
+Female,38,Fair,0
+Male,37,Very good,1
+Male,23,Excellent,0
+Male,39,Very good,0
+Male,35,Fair,1
+Male,25,Fair,1
+Female,56,Very good,0
+Male,49,Excellent,1
+Male,50,Fair,1
+Female,70,Very good,1
+Male,33,Good,1
+Female,29,Poor,0
+Female,55,Excellent,1
+Female,69,Good,1
+Male,51,Excellent,1
+Male,78,Very good,1
+Male,31,Fair,1
+Female,53,Very good,0
+Male,50,Poor,1
+Male,40,Good,0
+Male,67,Very good,0
+Female,62,Very good,1
+Female,19,Very good,1
+Male,58,Very good,1
+Male,38,Excellent,1
+Male,19,Very good,0
+Male,44,Very good,0
+Female,74,Good,1
+Female,26,Good,1
+Female,18,Good,0
+Female,28,Excellent,0
+Male,20,Very good,1
+Male,69,Good,1
+Male,79,Very good,1
+Female,40,Excellent,0
+Male,43,Fair,1
+Female,21,Good,1
+Female,35,Good,1
+Male,72,Excellent,1
+Male,23,Good,1
+Male,52,Good,0
+Female,39,Good,1
+Male,60,Good,1
+Female,32,Fair,1
+Male,39,Good,1
+Female,77,Excellent,1
+Female,54,Good,1
+Male,69,Good,1
+Female,59,Good,1
+Female,29,Excellent,1
+Male,64,Excellent,1
+Female,66,Fair,0
+Male,59,Good,0
+Female,55,Fair,1
+Male,35,Good,1
+Male,62,Good,0
+Female,52,Good,1
+Female,47,Fair,0
+Female,41,Good,0
+Female,59,Good,1
+Female,47,Excellent,1
+Male,31,Very good,0
+Female,23,Good,1
+Male,20,Very good,1
+Male,33,Very good,1
+Female,24,Very good,1
+Male,69,Very good,0
+Male,31,Very good,0
+Male,26,Very good,0
+Male,32,Fair,1
+Female,38,Good,1
+Male,52,Excellent,1
+Female,19,Excellent,1
+Female,44,Good,1
+Male,19,Very good,0
+Female,52,Fair,0
+Female,35,Good,1
+Female,31,Good,1
+Male,37,Very good,1
+Female,35,Good,1
+Female,27,Very good,0
+Female,42,Fair,1
+Male,19,Good,0
+Female,42,Very good,1
+Male,78,Very good,1
+Male,71,Excellent,0
+Male,50,Good,1
+Male,53,Very good,1
+Male,48,Good,1
+Male,31,Very good,1
+Female,18,Good,0
+Male,63,Fair,1
+Female,33,Good,0
+Female,71,Good,1
+Male,63,Excellent,1
+Female,78,Excellent,0
+Female,69,Good,1
+Female,20,Very good,1
+Female,52,Very good,1
+Male,58,Excellent,1
+Female,23,Very good,1
+Male,42,Excellent,1
+Female,30,Fair,1
+Female,70,Very good,1
+Male,51,Good,0
+Female,25,Excellent,1
+Female,38,Good,0
+Female,51,Very good,1
+Male,21,Fair,1
+Female,42,Fair,0
+Male,32,Very good,1
+Female,21,Fair,0
+Male,62,Poor,1
+Male,77,Fair,1
+Female,29,Fair,1
+Female,49,Very good,1
+Male,49,Good,0
+Male,45,Excellent,1
+Female,30,Excellent,0
+Male,48,Poor,0
+Female,31,Very good,1
+Female,37,Good,1
+Female,35,Fair,0
+Female,46,Fair,0
+Male,77,Poor,1
+Female,23,Very good,1
+Male,49,Excellent,1
+Female,46,Very good,0
+Male,60,Excellent,1
+Female,79,Excellent,0
+Male,19,Very good,1
+Male,77,Good,1
+Female,40,Good,1
+Female,36,Very good,1
+Female,48,Good,1
+Female,68,Very good,1
+Male,22,Excellent,1
+Female,36,Good,1
+Male,51,Good,1
+Male,27,Good,0
+Female,42,Excellent,1
+Male,19,Fair,1
+Male,79,Good,1
+Male,28,Good,0
+Male,67,Good,1
+Female,78,Fair,0
+Female,48,Good,0
+Female,73,Good,1
+Female,32,Poor,1
+Male,26,Good,0
+Male,40,Very good,1
+Female,36,Good,1
+Female,26,Very good,0
+Female,52,Very good,1
+Male,38,Good,0
+Female,26,Fair,1
+Female,45,Fair,0
+Female,79,Very good,1
+Male,63,Good,1
+Male,68,Very good,1
+Male,24,Poor,0
+Male,33,Poor,1
+Male,33,Good,1
+Male,77,Fair,1
+Male,50,Good,1
+Male,21,Good,1
+Female,21,Excellent,1
+Female,56,Very good,1
+Male,57,Good,1
+Male,34,Good,1
+Female,54,Very good,1
+Male,56,Fair,0
+Male,77,Excellent,1
+Male,69,Good,1
+Female,46,Good,1
+Female,69,Good,0
+Female,53,Good,0
+Female,77,Very good,0
+Female,55,Excellent,1
+Male,56,Good,1
+Female,67,Good,1
+Male,54,Excellent,1
+Male,69,Good,1
+Female,79,Very good,0
+Female,78,Good,0
+Male,52,Fair,0
+Male,24,Excellent,1
+Male,44,Excellent,0
+Female,45,Good,1
+Female,39,Good,1
+Female,31,Good,0
+Female,24,Fair,1
+Female,54,Fair,1
+Male,78,Poor,1
+Female,39,Good,0
+Male,22,Very good,0
+Male,79,Very good,1
+Male,72,Excellent,0
+Female,19,Good,1
+Female,79,Very good,1
+Female,44,Fair,0
+Male,38,Good,0
+Male,71,Good,0
+Male,55,Very good,1
+Male,32,Excellent,0
+Male,38,Excellent,1
+Male,27,Very good,0
+Female,40,Excellent,1
+Female,75,Good,0
+Female,73,Fair,1
+Female,56,Fair,1
+Male,22,Good,1
+Male,18,Very good,1
+Female,30,Fair,1
+Male,38,Fair,0
+Female,43,Excellent,1
+Female,67,Good,1
+Female,62,Very good,1
+Male,38,Fair,1
+Female,70,Poor,1
+Female,35,Excellent,1
+Female,54,Fair,1
+Male,62,Good,1
+Male,49,Poor,1
+Female,53,Very good,1
+Male,34,Fair,1
+Male,52,Excellent,1
+Male,66,Very good,1
+Male,77,Excellent,0
+Male,28,Poor,0
+Male,38,Fair,0
+Male,69,Fair,1
+Male,72,Fair,0
+Male,70,Excellent,0
+Male,43,Very good,0
+Female,79,Excellent,1
+Female,21,Very good,1
+Male,51,Very good,0
+Female,69,Very good,1
+Female,65,Very good,1
+Male,77,Excellent,1
+Male,35,Excellent,1
+Male,57,Excellent,1
+Female,52,Poor,1
+Female,58,Good,1
+Male,46,Poor,1
+Male,69,Very good,1
+Male,46,Very good,1
+Female,55,Good,1
+Female,59,Very good,0
+Female,38,Very good,0
+Female,59,Very good,1
+Male,30,Excellent,1
+Male,66,Very good,1
+Male,58,Very good,0
+Male,34,Good,1
+Female,73,Excellent,1
+Female,26,Very good,1
+Male,58,Fair,1
+Male,18,Excellent,0
+Female,19,Very good,0
+Male,77,Fair,1
+Female,65,Excellent,1
+Male,46,Excellent,1
+Male,50,Very good,1
+Male,27,Very good,1
+Male,67,Good,1
+Male,75,Fair,1
+Male,77,Excellent,1
+Male,57,Good,0
+Female,38,Good,1
+Female,45,Excellent,0
+Female,28,Good,0
+Female,72,Very good,1
+Female,51,Very good,0
+Male,25,Excellent,1
+Male,76,Very good,1
+Female,39,Very good,1
+Male,25,Fair,0
+Female,66,Excellent,1
+Female,32,Very good,1
+Male,34,Very good,0
+Male,77,Good,1
+Male,40,Good,0
+Female,41,Good,0
+Male,62,Good,0
+Female,36,Fair,0
+Female,22,Very good,0
+Female,49,Good,1
+Male,61,Fair,0
+Male,18,Poor,1
+Female,40,Fair,1
+Male,54,Very good,1
+Male,25,Excellent,0
+Male,30,Very good,0
+Female,25,Good,0
+Female,74,Very good,1
+Male,40,Very good,1
+Female,60,Fair,1
+Male,18,Very good,0
+Male,62,Fair,0
+Male,68,Very good,1
+Male,41,Very good,1
+Female,52,Very good,1
+Female,41,Good,1
+Female,34,Excellent,0
+Male,22,Excellent,1
+Male,37,Poor,1
+Male,38,Excellent,1
+Female,57,Good,1
+Male,75,Good,0
+Female,48,Very good,1
+Female,63,Good,1
+Female,53,Very good,1
+Female,28,Good,0
+Female,69,Very good,0
+Female,32,Good,0
+Male,36,Excellent,1
+Male,24,Good,1
+Female,68,Excellent,1
+Female,45,Very good,0
+Male,68,Very good,1
+Female,60,Excellent,1
+Female,75,Fair,0
+Male,22,Very good,0
+Female,22,Fair,1
+Female,47,Poor,1
+Female,71,Good,1
+Male,49,Excellent,0
+Male,25,Very good,0
+Male,27,Good,1
+Female,55,Very good,1
+Female,64,Excellent,0
+Male,49,Good,0
+Female,65,Fair,1
+Female,45,Good,1
+Female,34,Excellent,1
+Female,48,Good,1
+Female,25,Very good,0
+Male,57,Very good,0
+Female,42,Fair,0
+Male,26,Very good,1
+Female,19,Very good,0
+Male,32,Excellent,1
+Female,67,Fair,1
+Male,20,Good,1
+Female,66,Good,1
+Male,53,Good,0
+Female,79,Excellent,1
+Male,21,Very good,1
+Female,31,Very good,1
+Male,58,Excellent,1
+Male,58,Very good,1
+Female,42,Fair,1
+Female,75,Excellent,0
+Male,72,Very good,1
+Female,79,Very good,1
+Male,67,Very good,1
+Male,27,Fair,0
+Male,38,Very good,1
+Female,53,Very good,1
+Male,29,Good,1
+Male,44,Excellent,1
+Female,57,Very good,1
+Female,19,Very good,0
+Female,71,Good,1
+Female,30,Poor,1
+Male,70,Good,0
+Male,49,Very good,0
+Male,48,Fair,1
+Male,33,Excellent,1
+Female,49,Excellent,1
+Male,49,Very good,1
+Male,77,Very good,0
+Female,51,Good,0
+Male,28,Good,0
+Male,27,Fair,1
+Male,32,Good,1
+Male,34,Good,1
+Male,57,Excellent,0
+Male,35,Excellent,1
+Female,72,Good,1
+Female,26,Very good,0
+Male,42,Fair,0
+Male,57,Excellent,0
+Female,76,Excellent,1
+Male,31,Very good,0
+Male,77,Very good,0
+Male,75,Excellent,1
+Female,42,Good,1
+Male,67,Excellent,1
+Female,39,Good,0
+Male,69,Very good,1
+Female,47,Excellent,1
+Female,37,Very good,1
+Male,38,Fair,0
+Female,61,Very good,1
+Male,49,Good,1
+Female,68,Excellent,1
+Male,63,Good,0
+Male,66,Very good,1
+Female,73,Good,1
+Male,38,Good,0
+Male,52,Fair,1
+Female,75,Very good,0
+Male,49,Excellent,1
+Male,47,Excellent,1
+Female,72,Fair,1
+Female,56,Good,1
+Male,66,Good,0
+Male,29,Very good,1
+Female,58,Very good,0
+Female,64,Excellent,1
+Male,35,Poor,1
+Female,38,Good,1
+Male,30,Fair,0
+Male,79,Very good,1
+Male,38,Good,1
+Male,79,Good,1
+Male,25,Very good,1
+Female,63,Fair,1
+Female,57,Fair,0
+Female,63,Fair,1
+Female,24,Good,0
+Male,40,Very good,1
+Male,61,Very good,0
+Male,49,Poor,0
+Male,28,Excellent,1
+Female,39,Good,0
+Male,39,Good,1
+Male,60,Good,0
+Female,42,Poor,0
+Female,39,Very good,1
+Female,45,Very good,1
+Female,46,Excellent,1
+Male,30,Very good,1
+Male,35,Very good,1
+Female,19,Very good,1
+Male,46,Fair,1
+Male,38,Fair,0
+Male,32,Excellent,1
+Female,69,Very good,1
+Male,44,Fair,1
+Female,67,Excellent,1
+Male,48,Excellent,1
+Male,32,Excellent,1
+Male,68,Good,0
+Female,40,Excellent,0
+Male,41,Poor,1
+Female,61,Very good,0
+Female,30,Good,1
+Female,39,Very good,0
+Male,60,Very good,0
+Male,54,Good,1
+Male,78,Good,1
+Male,50,Good,1
+Female,73,Good,1
+Female,20,Fair,0
+Female,71,Fair,1
+Male,36,Good,0
+Female,40,Excellent,0
+Male,46,Excellent,1
+Female,47,Very good,0
+Male,56,Good,0
+Male,61,Very good,0
+Female,64,Very good,0
+Female,42,Fair,0
+Female,54,Fair,1
+Female,64,Fair,0
+Male,25,Very good,1
+Female,59,Good,0
+Female,75,Very good,0
+Female,33,Excellent,1
+Male,25,Excellent,1
+Male,18,Very good,1
+Female,61,Very good,1
+Male,22,Fair,1
+Female,20,Excellent,0
+Male,18,Good,0
+Male,21,Good,0
+Male,57,Very good,1
+Male,52,Very good,0
+Female,49,Very good,0
+Female,59,Good,1
+Female,51,Very good,1
+Male,60,Excellent,1
+Female,42,Excellent,0
+Female,27,Good,1
+Female,38,Fair,0
+Male,63,Very good,1
+Male,56,Good,0
+Male,44,Good,1
+Female,44,Fair,1
+Female,19,Fair,1
+Female,58,Good,1
+Male,65,Good,0
+Male,30,Fair,1
+Female,26,Very good,0
+Male,69,Very good,1
+Male,53,Excellent,1
+Male,39,Fair,1
+Male,59,Fair,1
+Female,43,Excellent,0
+Male,75,Good,1
+Male,71,Very good,0
+Male,29,Excellent,0
+Male,34,Poor,1
+Female,31,Very good,1
+Female,31,Excellent,0
+Male,74,Good,0
+Male,51,Good,0
+Male,70,Excellent,1
+Male,74,Good,0
+Male,37,Good,1
+Male,28,Excellent,0
+Female,33,Excellent,0
+Male,68,Good,1
+Female,48,Very good,1
+Female,72,Fair,1
+Male,23,Fair,1
+Female,73,Poor,0
+Female,36,Very good,1
+Female,54,Poor,1
+Female,75,Very good,1
+Female,21,Very good,0
+Female,64,Excellent,1
+Male,78,Excellent,1
+Female,21,Good,1
+Female,37,Very good,0
+Female,27,Very good,0
+Male,41,Good,1
+Female,71,Very good,1
+Male,52,Good,1
+Female,43,Very good,1
+Male,54,Fair,1
+Male,55,Fair,0
+Female,38,Very good,1
+Female,71,Very good,0
+Male,57,Very good,1
+Female,56,Fair,0
+Male,38,Very good,0
+Male,27,Very good,1
+Male,55,Excellent,1
+Male,63,Very good,1
+Male,21,Very good,1
+Female,77,Fair,1
+Male,74,Very good,1
+Male,62,Very good,0
+Female,37,Fair,1
+Male,34,Fair,0
+Female,72,Very good,1
+Female,24,Very good,0
+Female,21,Very good,1
+Male,46,Fair,0
+Male,31,Excellent,1
+Male,20,Fair,1
+Female,41,Good,1
+Male,54,Good,1
+Female,33,Excellent,1
+Male,75,Very good,1
+Female,72,Very good,1
+Male,69,Excellent,0
+Male,21,Good,1
+Male,73,Poor,1
+Female,79,Good,0
+Female,41,Good,1
+Male,51,Excellent,1
+Male,47,Very good,1
+Female,35,Excellent,0
+Female,36,Good,0
+Female,48,Fair,0
+Male,77,Good,1
+Female,77,Excellent,0
+Male,36,Very good,1
+Female,66,Good,1
+Male,63,Very good,1
+Female,36,Fair,1
+Female,39,Fair,1
+Female,41,Good,1
+Female,62,Very good,1
+Female,29,Very good,1
+Male,47,Excellent,0
+Female,75,Very good,1
+Female,55,Very good,0
+Female,70,Good,1
+Male,48,Good,0
+Female,53,Excellent,1
+Male,36,Very good,1
+Female,65,Excellent,1
+Female,62,Excellent,1
+Male,53,Fair,0
+Female,47,Excellent,1
+Male,72,Very good,1
+Male,66,Excellent,0
+Female,72,Fair,0
+Male,50,Good,1
+Female,35,Very good,1
+Female,69,Good,1
+Male,66,Good,1
+Male,76,Poor,1
+Male,45,Very good,0
+Male,76,Fair,1
+Female,64,Fair,1
+Female,28,Fair,1
+Male,74,Good,0
+Female,77,Good,0
+Female,71,Very good,1
+Female,62,Good,0
+Female,50,Good,1
+Male,34,Good,1
+Male,23,Very good,1
+Female,21,Good,1
+Male,37,Fair,1
+Male,65,Excellent,0
+Male,64,Fair,1
+Female,44,Good,0
+Female,32,Fair,1
+Female,23,Very good,1
+Male,64,Very good,1
+Female,31,Fair,1
+Female,77,Very good,1
+Male,28,Fair,1
+Female,56,Very good,1
+Female,26,Good,1
+Male,43,Very good,0
+Male,33,Good,1
+Male,22,Very good,1
+Female,74,Excellent,1
+Female,69,Very good,0
+Female,78,Excellent,0
+Male,27,Poor,1
+Male,67,Poor,1
+Female,20,Very good,1
+Female,30,Good,0
+Male,60,Very good,0
+Male,66,Good,1
+Male,47,Fair,1
+Male,79,Fair,1
+Female,71,Very good,0
+Male,62,Good,1
+Female,23,Very good,1
+Female,34,Poor,1
+Female,76,Excellent,0
+Male,62,Good,0
+Male,68,Good,0
+Male,70,Good,1
+Male,36,Excellent,0
+Female,59,Fair,1
+Male,52,Excellent,1
+Male,63,Good,1
+Female,43,Very good,0
+Male,68,Very good,1
+Female,22,Good,0
+Female,46,Very good,0
+Female,54,Excellent,1
+Female,37,Excellent,1
+Female,66,Very good,1
+Female,38,Good,1
+Female,27,Fair,1
+Female,22,Excellent,1
+Male,53,Very good,0
+Male,23,Excellent,0
+Male,43,Excellent,1
+Male,21,Good,1
+Female,79,Good,1
+Male,56,Excellent,0
+Female,56,Very good,0
+Male,67,Excellent,1
+Male,52,Fair,1
+Male,18,Poor,0
+Female,41,Excellent,1
+Male,74,Very good,1
+Female,53,Fair,1
+Female,23,Fair,1
+Male,58,Very good,1
+Male,71,Excellent,0
+Male,63,Excellent,0
+Female,77,Good,1
+Male,61,Very good,0
+Female,77,Excellent,1
+Female,74,Good,0
+Male,48,Excellent,1
+Male,37,Good,0
+Female,41,Very good,0
+Female,42,Excellent,1
+Female,53,Good,0
+Male,38,Very good,0
+Female,47,Poor,0
+Male,41,Good,1
+Female,61,Very good,0
+Female,59,Good,0
+Male,47,Very good,1
+Female,39,Fair,0
+Male,45,Very good,1
+Male,24,Good,1
+Female,52,Excellent,1
+Male,72,Very good,1
+Male,45,Fair,1
+Female,31,Fair,1
+Male,73,Very good,0
+Male,27,Very good,1
+Male,33,Fair,1
+Female,33,Fair,1
+Male,71,Excellent,1
+Female,48,Very good,0
+Female,59,Very good,0
+Male,42,Fair,0
+Male,30,Excellent,1
+Male,23,Very good,1
+Female,61,Good,1
+Male,26,Excellent,1
+Male,62,Very good,1
+Male,53,Very good,0
+Male,73,Very good,1
+Male,60,Very good,0
+Female,37,Good,1
+Female,35,Excellent,1
+Male,75,Good,1
+Male,60,Fair,1
+Male,74,Good,0
+Male,38,Excellent,1
+Female,21,Excellent,1
+Male,67,Very good,0
+Female,50,Very good,1
+Female,44,Very good,1
+Male,24,Good,1
+Female,23,Excellent,1
+Female,32,Excellent,0
+Female,35,Very good,0
+Female,49,Good,0
+Male,73,Excellent,1
+Male,28,Good,1
+Female,37,Very good,0
+Male,41,Fair,1
+Male,32,Fair,1
+Male,65,Very good,1
+Male,24,Very good,1
+Male,38,Very good,1
+Female,59,Very good,0
+Male,43,Good,0
+Male,61,Fair,1
+Male,73,Good,1
